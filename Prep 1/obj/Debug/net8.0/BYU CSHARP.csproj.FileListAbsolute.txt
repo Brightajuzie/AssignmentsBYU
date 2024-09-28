@@ -1,0 +1,14 @@
+C:\Users\JOJO\Documents\BYU CSHARP\bin\Debug\net8.0\BYU CSHARP.exe
+C:\Users\JOJO\Documents\BYU CSHARP\bin\Debug\net8.0\BYU CSHARP.deps.json
+C:\Users\JOJO\Documents\BYU CSHARP\bin\Debug\net8.0\BYU CSHARP.runtimeconfig.json
+C:\Users\JOJO\Documents\BYU CSHARP\bin\Debug\net8.0\BYU CSHARP.dll
+C:\Users\JOJO\Documents\BYU CSHARP\bin\Debug\net8.0\BYU CSHARP.pdb
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.AssemblyInfoInputs.cache
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.AssemblyInfo.cs
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.dll
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\refint\BYU CSHARP.dll
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.pdb
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\BYU CSHARP.genruntimeconfig.cache
+C:\Users\JOJO\Documents\BYU CSHARP\obj\Debug\net8.0\ref\BYU CSHARP.dll
